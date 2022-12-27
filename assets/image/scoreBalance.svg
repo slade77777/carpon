@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.143 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_account_balance_24px" class="cls-1" d="M4.857,13.857v10H9.143v-10Zm8.571,0v10h4.286v-10ZM2,31H29.143V26.714H2ZM22,13.857v10h4.286v-10ZM15.571,1,2,8.143V11H29.143V8.143Z" transform="translate(-2 -1)"/>
+</svg>

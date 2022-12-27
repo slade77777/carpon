@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.432" height="31.034" viewBox="0 0 40.432 31.034">
+  <g id="Group_5653" data-name="Group 5653" transform="translate(-922.816 -130.866)">
+    <g id="Rectangle_2323" data-name="Rectangle 2323" transform="translate(924.332 132.382)" fill="#9fced0" stroke="#6c6c6d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.517">
+      <rect width="37.398" height="28" rx="3" stroke="none"/>
+      <rect x="-0.758" y="-0.758" width="38.915" height="29.517" rx="3.758" fill="none"/>
+    </g>
+    <rect id="Rectangle_2324" data-name="Rectangle 2324" width="31.401" height="21.235" transform="translate(927.599 135.765)" fill="#fff"/>
+    <g id="Group_5652" data-name="Group 5652">
+      <rect id="長方形_2294" data-name="長方形 2294" width="12.003" height="2.311" transform="translate(945.267 139.227)" fill="#d6d6d6"/>
+      <rect id="長方形_2294-2" data-name="長方形 2294" width="12.003" height="2.311" transform="translate(945.267 143.227)" fill="#d6d6d6"/>
+      <rect id="長方形_2294-3" data-name="長方形 2294" width="12.003" height="2.311" transform="translate(945.267 147.227)" fill="#d6d6d6"/>
+      <rect id="長方形_2294-4" data-name="長方形 2294" width="12.003" height="2.311" transform="translate(945.267 151.227)" fill="#d6d6d6"/>
+      <rect id="長方形_2294-5" data-name="長方形 2294" width="12.003" height="2.311" transform="translate(929.32 151.227)" fill="#d6d6d6"/>
+      <path id="Path_4565" data-name="Path 4565" d="M938.663,147.127c-1.3-.3-2.514-.564-1.927-1.673,1.787-3.376.473-5.181-1.414-5.181-1.925,0-3.205,1.875-1.413,5.181.6,1.115-.654,1.379-1.928,1.673-1.164.269-1.207.847-1.2,1.857l0,.379h9.086V149C939.871,147.978,939.831,147.4,938.663,147.127Z" fill="#6c6c6d"/>
+    </g>
+  </g>
+</svg>

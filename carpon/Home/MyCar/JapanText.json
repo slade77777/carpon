@@ -1,0 +1,20 @@
+{
+    "body": "ボディ",
+    "engine_fuel": "エンジン・燃料",
+    "cd_driver": "足回り・駆動",
+    "equipment_view": "視界",
+    "equipment_exterior": "外装",
+    "equipment_around_driver_seat": "運転席まわり",
+    "equipment_interior": "シート・内装",
+    "equipment_aricon": "空調",
+    "equipment_audio": "オーディオ",
+    "equipment_under_carriage": "足回り",
+    "equiment_reduction": "衝突回避",
+    "equiment_mitigation": "衝突軽減",
+    "equipment_driving_support": "運転操作サポート",
+    "vehicle": "車間距離サポート",
+    "equipment_lane_departure_prevention": "はみ出し防止サポート",
+    "equipment_packing_support": "駐車サポート",
+    "equipment_visibility_support": "視界サポート",
+    "equipment_satefy": "安心装備"
+}

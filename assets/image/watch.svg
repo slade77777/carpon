@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_watch_later_24px" class="cls-1" d="M52,2a50,50,0,1,0,50,50A50.147,50.147,0,0,0,52,2ZM73,73,47,57V27h7.5V53L77,66.5,73,73Z" transform="translate(-2 -2)"/>
+</svg>

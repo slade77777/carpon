@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="14" viewBox="0 0 40 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="40" height="14" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon_status_認定" clip-path="url(#clip-path)">
+    <g id="グループ_365" data-name="グループ 365">
+      <rect id="長方形_1602" data-name="長方形 1602" width="40" height="14" rx="1" transform="translate(0)" fill="#4b9fa5"/>
+    </g>
+    <text id="認定" transform="translate(20 10)" fill="#fff" font-size="8" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-8" y="0">認定</tspan></text>
+  </g>
+</svg>

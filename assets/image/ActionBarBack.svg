@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="icon_arrow_white" transform="translate(-10 -35)">
+    <path id="icon_arrow_white-2" data-name="icon_arrow_white" class="cls-1" d="M10.013,0,0,10.071,10.013,20,11,19.007,1.974,10.071,11,.993Z" transform="translate(10 35)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4b9fa5;
+      }
+    </style>
+  </defs>
+  <path id="ic_broken_image_24px" class="cls-1" d="M21,5v6.59L18,8.58l-4,4.01-4-4-4,4L3,9.58V5A2.006,2.006,0,0,1,5,3H19A2.006,2.006,0,0,1,21,5Zm-3,6.42,3,3.01V19a2.006,2.006,0,0,1-2,2H5a2.006,2.006,0,0,1-2-2V12.42l3,2.99,4-4,4,4Z" transform="translate(-3 -3)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_trending_up_24px" class="cls-1" d="M16,6l2.29,2.29-4.88,4.88-4-4L2,16.59,3.41,18l6-6,4,4,6.3-6.29L22,12V6Z" transform="translate(-2 -6)"/>
+</svg>

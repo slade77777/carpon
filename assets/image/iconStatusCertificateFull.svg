@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="20" viewBox="0 0 80 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="80" height="20" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="マーク_認定オーナー_ON" clip-path="url(#clip-path)">
+    <rect id="長方形_1602" data-name="長方形 1602" width="80" height="20" rx="1" fill="#4b9fa5"/>
+    <text id="認定オーナー" transform="translate(40 14)" fill="#fff" font-size="10" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-30" y="0">認定オーナー</tspan></text>
+  </g>
+</svg>

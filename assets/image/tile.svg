@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_album_24px" class="cls-1" d="M11,2a9,9,0,1,0,9,9A9,9,0,0,0,11,2Zm0,13.05A4.05,4.05,0,1,1,15.05,11,4.045,4.045,0,0,1,11,15.05Zm0-4.95a.9.9,0,1,0,.9.9A.9.9,0,0,0,11,10.1Z" transform="translate(-2 -2)"/>
+</svg>

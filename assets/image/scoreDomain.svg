@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_domain_24px" class="cls-1" d="M17,9V3H2V30H32V9ZM8,27H5V24H8Zm0-6H5V18H8Zm0-6H5V12H8ZM8,9H5V6H8Zm6,18H11V24h3Zm0-6H11V18h3Zm0-6H11V12h3Zm0-6H11V6h3ZM29,27H17V24h3V21H17V18h3V15H17V12H29ZM26,15H23v3h3Zm0,6H23v3h3Z" transform="translate(-2 -3)"/>
+</svg>

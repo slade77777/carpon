@@ -1,0 +1,10 @@
+import "./AccountSetting";
+import "./UpdateNickname";
+import "./UpdateAddress";
+import "./UpdateMail";
+import "./UpdatePassword";
+import "./ConfirmCode";
+import "./UpdateName";
+import "./UpdateBirthday";
+import "./UpdateGender";
+import "./ConfirmDelete";

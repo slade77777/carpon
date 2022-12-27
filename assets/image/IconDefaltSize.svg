@@ -1,0 +1,10 @@
+<svg id="Button_Defalt" xmlns="http://www.w3.org/2000/svg" width="50" height="52" viewBox="0 0 50 52">
+  <g id="Group_6090" data-name="Group 6090" transform="translate(0 5)">
+    <rect id="Rectangle_3708" data-name="Rectangle 3708" width="20" height="20" rx="2" transform="translate(15 9.999)" fill="none" stroke="#4b9fa5" stroke-width="1.5"/>
+    <line id="Line_135" data-name="Line 135" y1="19" x2="19" transform="translate(15.5 10.5)" fill="none" stroke="#4b9fa5" stroke-width="1.5"/>
+  </g>
+  <g id="Group_6106" data-name="Group 6106">
+    <rect id="Rectangle_3693" data-name="Rectangle 3693" width="50" height="50" fill="none"/>
+    <text id="元のサイズ" transform="translate(3 49)" fill="#4b9fa5" font-size="9" font-family="PingFangSC-Regular, PingFang SC"><tspan x="0" y="0">元のサイズ</tspan></text>
+  </g>
+</svg>

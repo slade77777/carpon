@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 16.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_filter_frames_24px" class="cls-1" d="M15.5,3h-3l-3-3-3,3h-3A1.5,1.5,0,0,0,2,4.5V15a1.5,1.5,0,0,0,1.5,1.5h12A1.5,1.5,0,0,0,17,15V4.5A1.5,1.5,0,0,0,15.5,3Zm0,12H3.5V4.5H6.89L9.53,1.875,12.14,4.5H15.5ZM14,6H5v7.5h9" transform="translate(-2)"/>
+</svg>

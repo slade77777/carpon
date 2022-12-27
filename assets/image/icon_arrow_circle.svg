@@ -1,0 +1,6 @@
+<svg id="icon_arrow_circle" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <circle id="Ellipse_392" data-name="Ellipse 392" cx="10" cy="10" r="10" fill="#4b9fa5"/>
+  <g id="icon_arrow" transform="translate(14.7 16) rotate(180)">
+    <path id="icon_arrow_white" d="M6.008,0,0,6.043,6.008,12l.592-.6L1.185,6.043,6.6.6Z" fill="#fff" stroke="#fff" stroke-width="0.5" fill-rule="evenodd"/>
+  </g>
+</svg>

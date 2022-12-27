@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_arrow_gray" class="cls-1" d="M10.013,0,0,10.071,10.013,20,11,19.007,1.974,10.071,11,.993Z" transform="translate(11 20) rotate(180)"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.238 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ic_enhanced_encryption_24px" class="cls-1" d="M17.333,7.667h-.952v-1.9a4.762,4.762,0,0,0-9.524,0v1.9H5.9A1.91,1.91,0,0,0,4,9.571V19.1A1.91,1.91,0,0,0,5.9,21H17.333a1.91,1.91,0,0,0,1.9-1.9V9.571A1.91,1.91,0,0,0,17.333,7.667Zm-8.667-1.9a2.952,2.952,0,0,1,5.9,0v1.9h-5.9Z" transform="translate(-4 -1)"/>
+</svg>
